@@ -1,0 +1,14 @@
+{
+	"nativescript-camera": {
+		"C:\\Users\\Zaki\\source\\4. SEMESTER\\MOBILE DEVELOPMENT\\4. Semester Synopsis\\movinglist\\node_modules\\nativescript-camera\\platforms\\android\\AndroidManifest.xml": "9d00f5835a8cd06010233f4d1eb04d8d82c67910",
+		"C:\\Users\\Zaki\\source\\4. SEMESTER\\MOBILE DEVELOPMENT\\4. Semester Synopsis\\movinglist\\node_modules\\nativescript-camera\\platforms\\android\\res\\xml\\provider_paths.xml": "dbe562dfa44616ea40d88a3cbd74b3e8f44c54f3"
+	},
+	"nativescript-plugin-firebase": {
+		"C:\\Users\\Zaki\\source\\4. SEMESTER\\MOBILE DEVELOPMENT\\4. Semester Synopsis\\movinglist\\node_modules\\nativescript-plugin-firebase\\platforms\\android\\firebase-release.aar": "747cc2394791db7cdedff04802d6064053ae4b20",
+		"C:\\Users\\Zaki\\source\\4. SEMESTER\\MOBILE DEVELOPMENT\\4. Semester Synopsis\\movinglist\\node_modules\\nativescript-plugin-firebase\\platforms\\android\\include.gradle": "158de1788653c33094baade1609702c4d8125505",
+		"C:\\Users\\Zaki\\source\\4. SEMESTER\\MOBILE DEVELOPMENT\\4. Semester Synopsis\\movinglist\\node_modules\\nativescript-plugin-firebase\\platforms\\android\\README.md": "b4cfe408efe30ab685c6aba22230098f2fd697d8"
+	},
+	"tns-core-modules-widgets": {
+		"C:\\Users\\Zaki\\source\\4. SEMESTER\\MOBILE DEVELOPMENT\\4. Semester Synopsis\\movinglist\\node_modules\\tns-core-modules-widgets\\platforms\\android\\widgets-release.aar": "55ca22f526381f9539bd32e9fa53dc729ba085d7"
+	}
+}

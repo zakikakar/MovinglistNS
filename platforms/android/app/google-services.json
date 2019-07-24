@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "503898811470",
+    "firebase_url": "https://movinglist-9ce8a.firebaseio.com",
+    "project_id": "movinglist-9ce8a",
+    "storage_bucket": "movinglist-9ce8a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:503898811470:android:eca4db03c9dbad9c",
+        "android_client_info": {
+          "package_name": "com.ladeezfirstmedia.giftler"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "503898811470-vi88dfgabiuf7a30one7fk7spunqvc5a.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBx9seTmvCxWhST6nz_Xb0jA0hK0mmk6nc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "503898811470-vi88dfgabiuf7a30one7fk7spunqvc5a.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "503898811470-7hd4eovr43q6d87b1euj8477f5avo25r.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.ladeezfirstmedia.giftler"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
